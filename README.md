@@ -1,6 +1,6 @@
 # NmapAutomater by https://github.com/21y4d 
 
-Edited as per my need 
+Edited as per my need for HTB and OSCP
  
  
   
